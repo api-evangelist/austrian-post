@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Austrian Post (Post AG) is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://post.at/
+Austrian Post (Post AG) is Austria’s national postal service provider, offering a wide range of mail, parcel, logistics, and digital services. The company operates an extensive network of post offices and delivery infrastructure, supporting both domestic and international shipments. Its online platform provides rate calculators, tracking, e‑letter services, and business solutions such as bulk mailing and e‑commerce fulfillment. The website also hosts corporate information, investor relations, sustainability initiatives, and a blog with updates on services and innovations.
+
+**Areas:** Company · Postal · Logistics · Austria · Services
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://post.at/)
+- [Documentation](https://www.post.at/en)
+- [Support](https://www.post.at/en/p/c/faq)
+- [Blog](https://www.post.at/en/p/blog)
+- [Terms of service](https://www.post.at/en/i/c/gtc)
+- [Privacy policy](https://www.post.at/en/i/c/data-protection)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/austrian-post/](https://apis.io/providers/austrian-post/).
